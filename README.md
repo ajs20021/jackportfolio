@@ -20,23 +20,43 @@
 ### Variables and Questionnaires
 - Resistance to Peer Influence (RESPEER)
   -  This questionnaire assessed to what extent teens were resistant to peer influence. Higher scores indicate greater resistance (less prone) to peer influence (Steinberg & Monahan, 2007)
-  -  
   -  Cronbach's _a_ = 0.794 (acceptable reliability)
   -  Factor Loadings = 0.337 - 0.677
   -  Example Question: A. Some people go along with their friends just to keep their friends happy. 
-1 = A is really true for me, 2 = A is sort of true for me
+<sub>1 = A is really true for me, 2 = A is sort of true for me
 B. Others refuse to go along with their friends, even if it makes those friends unhappy
-3 = B is sort of true for me, 4 = B is really true for me
-
+3 = B is sort of true for me, 4 = B is really true for me<sub>
 
 - Relational Aggression (RELAGG)
   -   In the dataset, this measure was compiled across questions assessing relationally aggressive problem behaviors (Multisite Violence Prevention Project, 2004)
   -   Cronbach's _a_ = 0.766 (acceptable reliability)
   -   Factor Loadings = 0.477 - 0.717
   -   Example Question: How many times in the last month have you tried to keep someone from liking another by saying mean things about them?
-0 = never - 5 = 20 times
+<sub>0 = never - 5 = 20 times<sub>
+
+
 
 ## Results
+
+![graph1]()
+
+- The first part of my hypothesis is confirmed because __low resistance to peer influence was correlated with an increase in relational aggression__
+- The second part showed that gender changes the strength of that relationship - surprisingly that __male teens showed a stronger relationship between low peer influence and high relational aggression than female teens did!__
+- This means that, under the the influence of their peers, male teens were more gossipy, rumour spreading, interpersonally manipulative, etc. than female teens!
+- __Remarkably - the cultural stereotype was turned on its head__
+- <sub>*other exploratory analyses revealed more relational aggression in non-white teens compared to white teens, but no difference in relational aggression by age<sub>
+
+## Analysis
+- Our findings reveal that, even in their larger and typically more impersonal groups, male teens showed a greater propensity to be relationally aggressive under the influence of their peers
+- Again, previous research has firmly held that female teens show more relational aggression
+- Researchers also expect that female teens' closer social spaces should predict an even greater extent of relational aggression through higher peer influence in these spaces
+- But my results run against these usual patterns in the literature
+- These mixed results across the field may indicate that this may be a more complex issue than gender
+- More research is needed to uncover the precise dynamics driving these differences in relational aggression
+
+## Sources and References
+
+
 
 
 
