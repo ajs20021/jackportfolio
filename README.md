@@ -18,10 +18,23 @@
 - 223 were non-white and 500 were white
 
 ### Variables and Questionnaires
-- Relational Aggression (RELAGG)
--   
-
 - Resistance to Peer Influence (RESPEER)
+  -  This questionnaire assessed to what extent teens were resistant to peer influence. Higher scores indicate greater resistance (less prone) to peer influence (Steinberg & Monahan, 2007)
+  -  
+  -  Cronbach's _a_ = 0.794 (acceptable reliability)
+  -  Factor Loadings = 0.337 - 0.677
+  -  Example Question: A. Some people go along with their friends just to keep their friends happy. 
+1 = A is really true for me, 2 = A is sort of true for me
+B. Others refuse to go along with their friends, even if it makes those friends unhappy
+3 = B is sort of true for me, 4 = B is really true for me
+
+
+- Relational Aggression (RELAGG)
+  -   In the dataset, this measure was compiled across questions assessing relationally aggressive problem behaviors (Multisite Violence Prevention Project, 2004)
+  -   Cronbach's _a_ = 0.766 (acceptable reliability)
+  -   Factor Loadings = 0.477 - 0.717
+  -   Example Question: How many times in the last month have you tried to keep someone from liking another by saying mean things about them?
+0 = never - 5 = 20 times
 
 ## Results
 
