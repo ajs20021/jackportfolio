@@ -40,7 +40,7 @@
 
 ## Results
 
-![graph1](/image/)
+![graph1](/image/corrmatrix/)
 
 - The first part of my hypothesis is confirmed because __low resistance to peer influence was correlated with an increase in relational aggression__ (fig1)
 - Other exploratory analyses revealed more relational aggression in non-white teens compared to white teens, but no difference in relational aggression by age 
