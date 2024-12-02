@@ -38,7 +38,7 @@ B. Others refuse to go along with their friends, even if it makes those friends 
 
 ## Results
 
-![graph1]()
+![graph1](/image/)
 
 - The first part of my hypothesis is confirmed because __low resistance to peer influence was correlated with an increase in relational aggression__
 - The second part showed that gender changes the strength of that relationship - surprisingly that __male teens showed a stronger relationship between low peer influence and high relational aggression than female teens did!__
