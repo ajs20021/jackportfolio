@@ -4,7 +4,7 @@
 ## Researching the "Gossip Girl" Stereotype
   Indeed, the gossip girl stereotype has interested psychologists. Researchers have explored gossip as its own behavior as well as a part of a bigger umbrella of related behaviors. This umbrella is called relational aggression, a non-physical form of aggression including interpersonal manipulation, harming another's social standing and, of course, forms of gossip.
   
-  Previous research does find that relational aggression is higher in women compared to men (Archer et al. 2005). But why this is the case is not explored! Some researchers point to the nature of female friend groups compared to men. They suppose the smaller and closer social networks of female friend groups results in more peer influence compared to the larger networks that males tend to associate with (Kreager et al. 2011). But does relational aggression necessarily follow from that peer influence?
+  Previous research does find that relational aggression is higher in women compared to men (Archer et al. 2005). But why this is the case is not explored! Some researchers point to the nature of female friend groups compared to men. They suppose the smaller and closer social networks of female friend groups results in more peer influence compared to the larger networks that males tend to associate with (Kreager et al. 2011). But does relational aggression necessarily follow from peer influence in those spaces?
 
   This study will address the gaps outlined above, asking...
   
@@ -42,21 +42,26 @@
 
 ![graph1](/image/corrmatrix.png/)
 
-- The first part of my hypothesis is confirmed because __low resistance to peer influence was correlated with an increase in relational aggression__ (r = -.25)
-- Other exploratory analyses revealed more relational aggression in non-white teens compared to white teens, but no difference in relational aggression by age 
+- Initial analysis revealed that __low resistance to peer influence was related to an increase in relational aggression__ (r = -.25***)
+- In addition, I found that __male teens were generally slightly more relationally aggressive than female teens__ (r=-.09*)
+- Other exploratory analyses revealed slightly higher relational aggression in non-white teens compared to white teens (r=-.10**), but there was no difference in relational aggression by age
 
-- The second part showed that gender changes the strength of that relationship - surprisingly that __male teens showed a stronger relationship between low peer influence and high relational aggression than female teens did!__
+![graph1](/image/moderation.png/)
+
+- The most important results from my research come from the moderation analysis, showing that gender changes the strength of the peer influence + relational aggression relationship
+- Surprisingly - __male teens showed a stronger relationship between low peer influence and high relational aggression than female teens did!__
 - This means that, under the the influence of their peers, male teens were more gossipy, rumour spreading, interpersonally manipulative, etc. than female teens!
 - __Remarkably - the cultural stereotype was turned on its head__
 
 
-## Analysis
+## Analysis and Discussion
 - Our findings reveal that, even in their larger and typically more impersonal groups, male teens showed a greater propensity to be relationally aggressive under the influence of their peers
 - Again, previous research has firmly held that female teens show more relational aggression
 - Researchers also expect that female teens' closer social spaces should predict an even greater extent of relational aggression through higher peer influence in these spaces
 - But my results run against these usual patterns in the literature
 - These mixed results across the field may indicate that this may be a more complex issue than gender
 - More research is needed to uncover the precise dynamics driving these differences in relational aggression
+- Even if only slightly, my findings on the inversion of this stereotype should encourage more research on why this may be the case
 
 ## Sources and References
 
