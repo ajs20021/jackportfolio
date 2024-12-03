@@ -4,7 +4,7 @@
 ## Researching the "Gossip Girl" Stereotype
   Indeed, the gossip girl stereotype has interested psychologists. Researchers have explored gossip as its own behavior as well as a part of a bigger umbrella of related behaviors. This umbrella is called relational aggression, a non-physical form of aggression including interpersonal manipulation, harming another's social standing and, of course, forms of gossip.
   
-  Previous research does find that relational aggression is higher in women compared to men (Archer et al., 2005). But why this is the case is not explored! Some researchers point to the nature of female friend groups compared to males'. They suppose the smaller and closer social networks of female friend groups results in more peer influence compared to the larger networks that males tend to associate with (Kreager et al., 2011). So should we expect differing peer influence for these male and female social groups? And does relational aggression necessarily follow from that peer influence?
+  Previous research does find that relational aggression is higher in women compared to men (Archer et al., 2005). But why this is the case is not well explored! Some researchers point to the nature of female friend groups compared to males'. They find that the smaller and closer social networks of female friend groups result in more peer influence compared to the larger networks that males tend to associate with (Kreager et al., 2011). So should we expect differing peer influence for these male and female social groups? And does relational aggression necessarily follow from that peer influence?
 
   This study will address the gaps outlined above, asking...
   
@@ -12,15 +12,15 @@
 
 ## My Approach
 ### Participants
-- I used an open source dataset on the experiences of 723 North Carolina teens from different schools around the state. 
-- They were 14 years old on average
+- I used an open source dataset surverying the experiences of 723 North Carolina teens from different schools around the state. 
+- They were 14.1 years old on average
 - 327 male teens and 396 female teens
 - 223 were non-white and 500 were white
 
 ### Variables and Questionnaires
 - Resistance to Peer Influence (RESPEER)
   -  This questionnaire assessed to what extent teens were resistant to peer influence. Higher scores indicate greater resistance (less prone) to peer influence (Steinberg & Monahan, 2007)
-  -  Cronbach's _a_ = 0.794 (acceptable reliability)
+  -  Cronbach's _a_ = 0.794 (good reliability)
   -  Factor Loadings = 0.337 - 0.677
   -  Example Question:
     -  A. Some people go along with their friends just to keep their friends happy. 
@@ -36,8 +36,6 @@
     -   How many times in the last month have you tried to keep someone from liking another by saying mean things about them?
 <sub>0 = never - 5 = 20 times<sub>
 
-
-
 ## Results
 
 ![graph1](/image/corrmatrix.png/)
@@ -49,19 +47,19 @@
 ![graph1](/image/moderation.png/)
 
 - The most important results from my research come from the moderation analysis, showing that gender changes the strength of the peer influence + relational aggression relationship
-- Surprisingly - __male teens showed a stronger relationship between peer influence and relational aggression than female teens did!__
-- This means that, under the the influence of their peers, male teens were more relationally aggressive (gossipy, rumour spreading, interpersonally manipulative, etc) than female teens!
+- Surprisingly - __male teens showed a stronger relationship between peer influence and relational aggression than female teens did!__ (indicated by a steeper line for men)
+- This means that, under the the influence of their peers, male teens were more relationally aggressive than female teens!
 - __Remarkably - the cultural stereotype was turned on its head__
 
 
 ## Analysis and Discussion
 - Our findings reveal that, even in their larger and typically more impersonal groups, male teens showed a greater propensity to be relationally aggressive under the influence of their peers
 - Again, previous research has firmly held that female teens show more relational aggression
-- Researchers also expect that female teens' closer social spaces should predict an even greater extent of relational aggression through higher peer influence in these spaces
-- But my results run against these usual patterns in the literature
+- We also expect that female teens' closer social spaces should predict an even greater extent of relational aggression through higher peer influence in these spaces
+- But my results run against these usual patterns and hypotheses in the literature
 - These mixed results across the field indicate that this may be a more complex issue than gender
-- More research is needed to uncover the precise dynamics driving these differences in relational aggression
-- Even if only slightly, my findings on the inversion of this stereotype should encourage more research on other variables possibly influencing this behavior because it likely goes beyond gender differences
+- For now, it is not possible to say once and for all that men are more gossipy than women
+- My findings only imply that more research is needed to uncover the precise dynamics driving these differences in relational aggression
 
 ## Sources and References
 
@@ -70,10 +68,16 @@ Hoyle, Rick H. Research on adaptive interests, skills, and environments (RAISE) 
   2019. _Inter-university Consortium for Political and Social Research,_ 2024-09-09.     
   https://doi.org/10.3886/ICPSR36850.v3
 
+### Scales and Questionnaires
+Steinberg, L., & Monahan, K. C. (2007). Age differences in resistance to peer influence. _Developmental psychology, 43_(6), 1531–1543. https://doi.org/10.1037/0012-1649.43.6.1531
+
+Miller-Johnson, S., Sullivan, T. N., Simon, T. R., & Multisite Violence Prevention Project (2004). Evaluating the impact of interventions in the Multisite Violence Prevention Study: Samples, procedures, and measures. _American journal of preventive medicine, 26_(1 Suppl), 48–61. https://doi.org/10.1016/j.amepre.2003.09.015
+
 ### Background:
 Archer, J., & Coyne, S. M. (2005). An integrated review of indirect, relational, and social aggression. 
   _Personality and social psychology review : an official journal of the Society for Personality and Social    
   Psychology, Inc, 9_(3), 212–230. https://doi.org/10.1207/s15327957pspr0903_2
+
 Kreager, D. A., Rulison, K., & Moody, J. (2011). Delinquency and the structure of adolescent peer groups.   
   _Criminology : an interdisciplinary journal, 49_(1), 95–127. https://doi.org/10.1111/j.1745-9125.2010.00219.x
 
