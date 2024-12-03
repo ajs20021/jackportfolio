@@ -64,8 +64,7 @@
 ## Sources and References
 
 ### Dataset:
-Hoyle, Rick H. Research on adaptive interests, skills, and environments (RAISE) study, North Carolina, 2015-  
-  2019. _Inter-university Consortium for Political and Social Research,_ 2024-09-09.     
+Hoyle, Rick H. Research on adaptive interests, skills, and environments (RAISE) study, North Carolina, 2015-2019. _Inter-university Consortium for Political and Social Research,_ 2024-09-09.     
   https://doi.org/10.3886/ICPSR36850.v3
 
 ### Scales and Questionnaires
