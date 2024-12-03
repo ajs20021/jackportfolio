@@ -55,7 +55,7 @@
 ## Analysis and Discussion
 - Our findings reveal that, even in their larger and typically more impersonal groups, male teens showed a greater propensity to be relationally aggressive under the influence of their peers
 - Again, previous research has firmly held that female teens show more relational aggression
-- We also expect that female teens' closer social spaces should predict an even greater extent of relational aggression through higher peer influence in these spaces
+- It also expects that female teens' closer social spaces should predict an even greater extent of relational aggression through higher peer influence in these spaces
 - But my results run against these usual patterns and hypotheses in the literature
 - These mixed results across the field indicate that this may be a more complex issue than gender
 - For now, it is not possible to say once and for all that men are more gossipy than women
