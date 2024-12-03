@@ -4,7 +4,7 @@
 ## Researching the "Gossip Girl" Stereotype
   Indeed, the gossip girl stereotype has interested psychologists. Researchers have explored gossip as its own behavior as well as a part of a bigger umbrella of related behaviors. This umbrella is called relational aggression, a non-physical form of aggression including interpersonal manipulation, harming another's social standing and, of course, forms of gossip.
   
-  Previous research does find that relational aggression is higher in women compared to men (Archer et al., 2005). But why this is the case is not well explored! Some researchers point to the nature of female friend groups compared to males'. They find that the smaller and closer social networks of female friend groups result in more peer influence compared to the larger networks that males tend to associate with (Kreager et al., 2011). So should we expect differing peer influence for these male and female social groups? And does relational aggression necessarily follow from that peer influence?
+  Previous research does find that relational aggression is higher in women compared to men (Archer & Coyne, 2005). But why this is the case is not well explored! Some researchers point to the nature of female friend groups compared to males'. They find that the smaller and closer social networks of female friend groups result in more peer influence compared to the larger networks that males tend to associate with (Kreager et al., 2011). So should we expect differing peer influence for these male and female social groups? And does relational aggression necessarily follow from that peer influence?
 
   This study will address the gaps outlined above, asking...
   
