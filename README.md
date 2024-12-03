@@ -47,7 +47,7 @@
 ![graph1](/image/moderation.png/)
 
 - The most important results from my research come from the moderation analysis, showing that gender changes the strength of the peer influence + relational aggression relationship
-- Surprisingly - __male teens showed a stronger relationship between peer influence and relational aggression than female teens did!__ (indicated by a steeper line for men)
+- Surprisingly - __male teens showed a stronger relationship between peer influence and relational aggression than female teens did!__ (indicated by a steeper line for males)
 - This means that, under the the influence of their peers, male teens were more relationally aggressive than female teens!
 - __Remarkably - the cultural stereotype was turned on its head__
 
