@@ -4,7 +4,7 @@
 ## Researching the "Gossip Girl" Stereotype
   Indeed, the gossip girl stereotype has interested psychologists. Researchers have explored gossip as its own behavior as well as a part of a bigger umbrella of related behaviors. This umbrella is called relational aggression, a non-physical form of aggression including interpersonal manipulation, harming another's social standing and, of course, forms of gossip.
   
-  Previous research does find that relational aggression is higher in women compared to men (Archer et al. 2005). But why this is the case is not explored! Some researchers point to the nature of female friend groups compared to males'. They suppose the smaller and closer social networks of female friend groups results in more peer influence compared to the larger networks that males tend to associate with (Kreager et al. 2011). But does relational aggression necessarily follow from that peer influence?
+  Previous research does find that relational aggression is higher in women compared to men (Archer et al., 2005). But why this is the case is not explored! Some researchers point to the nature of female friend groups compared to males'. They suppose the smaller and closer social networks of female friend groups results in more peer influence compared to the larger networks that males tend to associate with (Kreager et al., 2011). So should we expect differing peer influence for these male and female social groups? And does relational aggression necessarily follow from that peer influence?
 
   This study will address the gaps outlined above, asking...
   
@@ -62,7 +62,23 @@
 - These mixed results across the field indicate that this may be a more complex issue than gender
 - More research is needed to uncover the precise dynamics driving these differences in relational aggression
 - Even if only slightly, my findings on the inversion of this stereotype should encourage more research on other variables possibly influencing this behavior because it likely goes beyond gender differences
+
 ## Sources and References
+
+### Dataset:
+Hoyle, Rick H. Research on adaptive interests, skills, and environments (RAISE) study, North Carolina, 2015-  
+  2019. _Inter-university Consortium for Political and Social Research,_ 2024-09-09.     
+  https://doi.org/10.3886/ICPSR36850.v3
+
+### Background:
+Archer, J., & Coyne, S. M. (2005). An integrated review of indirect, relational, and social aggression. 
+  _Personality and social psychology review : an official journal of the Society for Personality and Social    
+  Psychology, Inc, 9_(3), 212–230. https://doi.org/10.1207/s15327957pspr0903_2
+Kreager, D. A., Rulison, K., & Moody, J. (2011). Delinquency and the structure of adolescent peer groups.   
+  _Criminology : an interdisciplinary journal, 49_(1), 95–127. https://doi.org/10.1111/j.1745-9125.2010.00219.x
+
+### Source Code:
+https://github.com/ajs20021/myproject/blob/main/myproject.Rmd
 
 
 
